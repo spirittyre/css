@@ -4,5 +4,5 @@
 -리스트1
 -리스트2
 
-[youtube](https://www.youtube.com/)
+[youtube](https://www.youtube.com/) :
 [google](https://www.google.com/)
